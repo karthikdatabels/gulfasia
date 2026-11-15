@@ -1,0 +1,8 @@
+{
+  "name": "Gulfasia Trade Engineering Pvt Ltd",
+  "description": "Government-registered Indian mineral export organization specializing in API Spec 13A Barite Ore, Barite Powder, industrial minerals, pulverizing, and global ship chartering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
